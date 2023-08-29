@@ -19,9 +19,10 @@ According to the NOAA, the volume of traffic for marine ports approximately doub
 traffic seaports will be expected to deal with, along the global focus on reducing carbon emissions (cargo ships are notoriously bad emitters) means that engineers
 and scientists will be tasked to optimize traffic flows and carbon emissions into and out of seaports. While that would require more volative, sensititve data 
 held by various port authorities and governments, there are some interesting and important questions we can answer with the data provided to the everyday internet 
-surfer/ameteur programmer interested in cool graphs (namely me). 
+surfer/ameteur programmer interested in cool graphs (namely me). This project focuses on the 500 biggest seaports in the world (for reference, there are approximately 800 active seaports in the world, with the
+top 50 making up over half of global trade). 
 
-  - In what countries are the worlds 500 biggest seaports located? (I know my long winded rave of seaports was US-Centric and a bit exclusive to my home, but other areas around the
+  - In what countries are the worlds 500 biggest seaports located? (I know my long winded rave of seaports was US-Centric and a bit exclusive to my home, but other areas around the world
     also utilize seaports (who knew??))
     - And in what global regions, in addition to countries?
   - How are total number of vessels in port related to arrivals and departures? And how are those latter two related?
@@ -34,3 +35,9 @@ If anyone has any possible contributions or advice for this project, I would rea
 little new to this kind of thing. 
 
 
+Sources:
+Dataset - https://www.kaggle.com/datasets/sanjeetsinghnaik/ship-ports
+Exit 13A Picture - https://cdn.w600.comps.canstockphoto.com/nj-turnpike-stock-photograph_csp1046819.jpg
+Facts & Figures:
+- https://moverdb.com/top-49-container-ports/#:~:text=There%20are%20thousands%20of%20freight,takes%20place%20over%20the%20waves.
+- https://coast.noaa.gov/states/fast-facts/ports.html#:~:text=76%25%20of%20Trade,90%20percent%20of%20international%20trade.
