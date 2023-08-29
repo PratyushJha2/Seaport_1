@@ -11,7 +11,7 @@ They're not something people usually think about as people typically don't use a
 to enjoy their upcoming vacation somewhere on the other side of the big local ocean. And yet, 76% of all trade and 90% of international trade utilizes
 some form of marine transportation, amounting to $1.5 Trillion dollars worth of goods moving in and out of US ports alone! Where I live (NJ) residents are
 largely familiar with the industrial wasteland north of Exit 13 on the New Jersey Turnpike (I-95), mostly because of its uniquely horrid smells (yes, plural) and unsightly views, consisting 
-of oil/gas refineries, power plants, and the East Coast's largest seaport (Port Newark). 
+of oil/gas refineries, power plants, and the East Coast's most important seaport (Port Newark). 
 
 ![image](https://github.com/PratyushJha2/Seaport_1/assets/141875955/2121984f-0c82-49a2-a07d-f9854c6094cb)
 
