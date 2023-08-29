@@ -1,0 +1,36 @@
+# Seaport_1
+Answering some questions about seaports via a dataset about seaports (WiP)
+
+I was scrolling through Kaggle for some fun datasets and fate handed me this one about seaports. It's not something people usually think about as people typically don't use a cargo ship
+to enjoy their upcoming vacation somewhere on the other side of the big local ocean. And yet, 76% of all trade and 90% of international trade utilizes
+some form of marine transportation, amounting to $1.5 Trillion dollars worth of goods moving in and out of US ports alone! Where I live (NJ) residents are
+largely familiar with the industrial wasteland north of Exit 13 on the New Jersey Turnpike (I-95), largely because of its smell and unsightly views, consisting largely 
+of oil/gas refineries, power plants, and the East Coast's largest seaport (Port Newark). 
+
+![image](https://github.com/PratyushJha2/Seaport_1/assets/141875955/2121984f-0c82-49a2-a07d-f9854c6094cb)
+
+Tashka, via CanStock
+
+(Who can smell this picture?)
+
+I decided to see what kind of fun stuff I can do with this dataset, which has manifested in this project.
+
+According to the NOAA, the volume of traffic for marine ports approximately doubled in 2021 and is forecasted to double again shortly after 2030. The increased
+traffic seaports will be expected to deal with, along the global focus on reducing carbon emissions (cargo ships are notoriously bad emitters) means that engineers
+and scientists will be tasked to optimize traffic flows and carbon emissions into and out of seaports. While that would require more volative, sensititve data 
+held by various port authorities and governments, there are some interesting and important questions we can answer with the data provided to the everyday internet 
+surfer/ameteur programmer interested in cool graphs (namely me). 
+
+  - In what countries are the worlds 500 biggest seaports located? (I know my long winded rave of seaports was US-Centric and a bit exclusive to my home, but other areas around the
+    also utilize seaports (who knew??))
+    - And in what global regions, in addition to countries?
+  - How are total number of vessels in port related to arrivals and departures? And how are those latter two related?
+  - What is the most 'average' of the top 500 ports, in terms of vessels in port, arrivals/departures, geographical epicenter and name?
+
+To answer these questions, I can make various visualizations in matplotlib and plotly libraries to draw conclusions about how certain
+metrics are related. In addition, I can utilize a least squares method (OLS) to provide a more mathematical, dare I say "nerdy" conclusion about the data. 
+
+If anyone has any possible contributions or advice for this project, I would really (really!) appreciate any input or criticism at all because I am still a 
+little new to this kind of thing. 
+
+
