@@ -36,8 +36,10 @@ little new to this kind of thing.
 
 
 Sources:
-Dataset - https://www.kaggle.com/datasets/sanjeetsinghnaik/ship-ports
-Exit 13A Picture - https://cdn.w600.comps.canstockphoto.com/nj-turnpike-stock-photograph_csp1046819.jpg
+Dataset: https://www.kaggle.com/datasets/sanjeetsinghnaik/ship-ports
+
+Exit 13A Picture: https://cdn.w600.comps.canstockphoto.com/nj-turnpike-stock-photograph_csp1046819.jpg
+
 Facts & Figures:
 - https://moverdb.com/top-49-container-ports/#:~:text=There%20are%20thousands%20of%20freight,takes%20place%20over%20the%20waves.
 - https://coast.noaa.gov/states/fast-facts/ports.html#:~:text=76%25%20of%20Trade,90%20percent%20of%20international%20trade.
