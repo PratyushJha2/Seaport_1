@@ -1,6 +1,9 @@
 # Seaport_1
 Answering some questions about seaports via a dataset about seaports (WiP)
 
+![image](https://github.com/PratyushJha2/Seaport_1/assets/141875955/d4228316-aa64-4a32-b5ba-a37f53486bfa)
+Pictured: Aerial view of the Port of Shanghai, the largest container port in the world
+
 I was scrolling through Kaggle for some fun datasets and fate handed me this one about seaports. 
 
 They're not something people usually think about as people typically don't use a cargo ship
@@ -42,6 +45,8 @@ Sources:
 Dataset: https://www.kaggle.com/datasets/sanjeetsinghnaik/ship-ports
 
 Exit 13A Picture: https://cdn.w600.comps.canstockphoto.com/nj-turnpike-stock-photograph_csp1046819.jpg
+
+Shanghai Port Picture: https://www.shlingang.com/en/lingangjituan/xwzx/jtdt/202106/t20210628_22526.shtml
 
 Facts & Figures:
 - https://moverdb.com/top-49-container-ports/#:~:text=There%20are%20thousands%20of%20freight,takes%20place%20over%20the%20waves.
