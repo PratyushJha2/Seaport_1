@@ -28,7 +28,7 @@ top 50 making up over half of global trade).
   - How are total number of vessels in port related to arrivals and departures? And how are those latter two related?
   - What is the most 'average' of the top 500 ports, in terms of vessels in port, arrivals/departures, geographical epicenter and name?
 
-To answer these questions, I can make various visualizations in matplotlib and plotly libraries to draw conclusions about how certain
+To answer these questions, I can make various visualizations in Seaborn and Plotly libraries to draw conclusions about how certain
 metrics are related. In addition, I can utilize a least squares method (OLS) to provide a more mathematical, dare I say "nerdy" conclusion about the data. 
 
 If anyone has any possible contributions or advice for this project, I would really (really!) appreciate any input or criticism at all because I am still a 
