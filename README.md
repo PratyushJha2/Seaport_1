@@ -26,7 +26,7 @@ top 50 making up over half of global trade).
 
   - In what countries are the worlds 500 biggest seaports located? (I know my long winded rave of seaports was US-Centric and a bit exclusive to my home, but other areas around the world
     also utilize seaports (who knew??))
-    - And in what global regions, in addition to countries?
+    - And in what global regions do they reside, in addition to which countries?
   - How are total number of vessels in port related to arrivals and departures? And how are those latter two related?
   - What is the most 'average' of the top 500 ports, in terms of vessels in port, arrivals/departures, geographical epicenter and name?
 
