@@ -19,7 +19,7 @@ Tashka, via CanStock
 
 (Who can smell this picture?)
 
-I decided to see what kind of fun stuff I can do with this dataset, which has manifested in this project.
+I decided to see what kind of fun stuff I can do with this dataset, and that desire has manifested in this project.
 
 According to the NOAA, the volume of traffic for marine ports approximately doubled in 2021 and is forecasted to double again shortly after 2030. The increased
 traffic seaports will be expected to deal with, along the global focus on reducing carbon emissions (cargo ships are notoriously bad emitters) means that engineers
