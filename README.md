@@ -1,7 +1,9 @@
 # Seaport_1
 Answering some questions about seaports via a dataset about seaports (WiP)
 
-I was scrolling through Kaggle for some fun datasets and fate handed me this one about seaports. It's not something people usually think about as people typically don't use a cargo ship
+I was scrolling through Kaggle for some fun datasets and fate handed me this one about seaports. 
+
+They're not something people usually think about as people typically don't use a cargo ship
 to enjoy their upcoming vacation somewhere on the other side of the big local ocean. And yet, 76% of all trade and 90% of international trade utilizes
 some form of marine transportation, amounting to $1.5 Trillion dollars worth of goods moving in and out of US ports alone! Where I live (NJ) residents are
 largely familiar with the industrial wasteland north of Exit 13 on the New Jersey Turnpike (I-95), largely because of its smell and unsightly views, consisting largely 
