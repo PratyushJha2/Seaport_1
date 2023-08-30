@@ -23,7 +23,7 @@ I decided to see what kind of fun stuff I can do with this dataset, and that des
 
 According to the NOAA, the volume of traffic for marine ports approximately doubled in 2021 and is forecasted to double again shortly after 2030. The increased
 traffic seaports will be expected to deal with, along the global focus on reducing carbon emissions (cargo ships are notoriously bad emitters) means that engineers
-and scientists will be tasked to optimize traffic flows and carbon emissions into and out of seaports. While that would require more volative, sensititve data 
+and scientists will be tasked to optimize traffic flows and carbon emissions into and out of seaports. While that would require more volatile, sensititve data 
 held by various port authorities and governments, there are some interesting and important questions we can answer with the data provided to the everyday internet 
 surfer/ameteur programmer interested in cool graphs (namely me). This project focuses on the 500 biggest seaports in the world (for reference, there are approximately 800 active seaports in the world, with the
 top 50 making up over half of global trade). 
